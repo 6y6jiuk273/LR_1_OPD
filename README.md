@@ -4,3 +4,4 @@
 **Вариант:** 6  
 **Задание:**  
 Получить список вакансий по поиску Python с сайта hh.ru , результат записать в файл формата .xlsx  
+![image](https://user-images.githubusercontent.com/125188456/234626792-c7274de7-c9ab-45ed-972e-615cb4f090bd.png)  
