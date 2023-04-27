@@ -13,7 +13,7 @@ def parse():
     vacancy = [] # создаём пустой список вакансий
     for name in items:
         vacancy.append(name.text) # добавляем вакансии в список
-    zapis(vacancy)
+    zapis(vacancy) #вызываем функцию и передаём ей список 
 
 def zapis(vacancy):
     file = 'SpisokVacancy.xlsx' # создаём файловую переменную
